@@ -57,8 +57,7 @@ Font-size: 20px;
 
 .communism{
 Float: left;
-Text-align:left;
-Position: relative; left: -500px;
+Position: relative; left: -20%;
 Position: relative; top: 100px;
 Border: solid black 2px;
 Background: beige;
